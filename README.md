@@ -1,11 +1,11 @@
 # Smart Escape — Interactive Evacuation Route Simulator
 
 **Name:** Faizuddin Safa · **ID :** `<CMU11PHA>`
-**Live site (HTTPS):** `<FILL IN — e.g. https://<username>.github.io/devfest-<reg-no>/>`
+**Live site (HTTPS):** `<https://faizuddinsafa-24.github.io/Smart-Escape/>`
 
-Frontend-only React app that loads a `building.json`, draws the building graph, and finds the
+Frontend-only **React** app that loads a *building.json*, draws the building graph, and finds the
 lowest-cost route from a chosen start to an open exit. Every start/hazard change recalculates
-instantly. Bangla / English UI, light / dark theme.
+instantly. **Bangla / English UI, light / dark theme**.
 
 > Educational simulation only — not a certified evacuation planning tool.
 
@@ -81,8 +81,8 @@ also works on Netlify / Vercel / Cloudflare Pages unchanged.
 
 ## AI tools used
 
-`<FILL IN>`
+`<Claude Opus 5.5>`
 
 ## Most useful prompt
 
-`<FILL IN>`
+`<Act as the ruthless mentor. Be brutally honest. No AI hallucination. no seo fluff. only raw truth. Your task is to build a frontend web app. Build it using only React. Here is the project statement, and build it properly. Make sure the user can switch to dark to light mode. Also, the Bangla-to-English and vice versa buttons need to be added. Details, ruleset, and the project statement are attached. Build the app following the rules. Go.>`
